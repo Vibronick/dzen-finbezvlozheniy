@@ -1,2 +1,1 @@
-# dzen-finbezvlozheniy
-Encrypted vault sync
+Encrypted vault (DZENENC1)
